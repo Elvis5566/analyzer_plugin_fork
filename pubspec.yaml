@@ -1,4 +1,4 @@
-name: analyzer_plugin_fork
+name: analyzer_plugin
 description: Fork of the analyzer_plugin package with analyzer 0.40 support
 version: 0.3.0
 homepage: https://github.com/simolus3/analyzer_plugin_fork
